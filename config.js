@@ -28,14 +28,14 @@ window.CONFIG = {
   //         Ex.: 55 (Brasil) + 31 (DDD) + 985657116 -> "5531985657116"
   // mensagem: texto que já vem pré-preenchido quando a pessoa abre o WhatsApp.
   whatsapp: {
-    numero: "558688755675",
+    numero: "5586988755675",
     mensagem: "Olá! Confirmo minha presença no aniversário da Maria Alice."
   },
 
   // ----- LOCALIZAÇÃO (BOTÃO MAPA) ----------------------------------------
   // Link completo do Google Maps. Abra o local no Maps, clique em "Compartilar"
   // -> "Copiar link" e cole aqui (mantenha as aspas).
-  mapa: "https://share.google/FWIuP1yR28nqA4WtR",
+  mapa: "https://www.google.com/maps/place/Associa%C3%A7%C3%A3o+dos+Docentes+da+Universidade+Federal+do+Piau%C3%AD/@-5.062324,-42.8000838,3a,75y,90t/data=!3m8!1e2!3m6!1sCIABIhBVeIiV4O_gz7VJvaYZEP_g!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAEofxPmJyzweQPbaQsD1QzFzhUKiaKIQYPvg9dzf2TDQeKaT7r4ub266BobdvcPrvWT-wy2t0TUFVQJxV7QKwQLtGi5znX17VmXsSnd5rdEg3GV4Jl7NR3qPH54qqTejfYI9HFeW1_V6Idj%3Dw152-h86-k-no!7i4000!8i2252!4m7!3m6!1s0x78e3998e6583647:0x5a72d9b1d81f5139!8m2!3d-5.06152!4d-42.8001976!10e5!16s%2Fg%2F1ptwnb5zb?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D",
 
   // ----- QUAIS TELAS APARECEM --------------------------------------------
   // video:     true  -> toca o vídeo (assets/video.mp4) depois da abertura.
